@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = “HicoolFoundation"
+  s.name         = "HicoolFoundation"
   s.version      = "0.0.3"
   s.summary      = "HicoolFoundation."
 
@@ -53,8 +53,8 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "jinde" => "jindegege@aliyun.com" }
-  # Or just: s.author    = "jinde"
+  s.author             = { "jindegege" => "jindegege@aliyun.com" }
+  # Or just: s.author    = "jindegege"
   # s.authors            = { "jindegege" => "jindegege@aliyun.com" }
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -89,7 +89,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "SNFoundation/*.{h,m,c}"
+  s.source_files  = "HicoolFoundation/*.{h,m,c}"
   s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
